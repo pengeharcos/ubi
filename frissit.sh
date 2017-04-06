@@ -1,3 +1,4 @@
 #!/bin/bash
-apt-get update --yes
-apt-get upgrade --yes
+sudo apt-get update --yes
+sudo apt-get upgrade --yes
+echo kész a frissítés
